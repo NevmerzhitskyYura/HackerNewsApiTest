@@ -2,4 +2,5 @@ django
 psycopg2
 djangorestframework
 django-crontab
-fcntl
+black
+flake8
